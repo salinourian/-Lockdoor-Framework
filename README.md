@@ -1,6 +1,5 @@
 
 <p align="center">
-  <img src="https://sofianehamlaoui.github.io/junk/lockdoor/2.3/lockdoor_small.png">
 </p>
 
 <h2 align="center"> Lockdoor v2.3</h2>
@@ -9,45 +8,43 @@
 
 - [Table of contents](#table-of-contents)
 - [Changelog 📌  :](#changelog---)
-- [Badges 📌 :](#badges--)
-- [Support me 💰 :](#support-me--)
-- [Contributors ⭐ :](#contributors--)
+      - [Version v2.3 IS OUT !!](#version-v23-is-out-)
 - [Versions](#versions)
-    - [06/2021 : 2.3](#062021--23)
-    - [03/2020 : 2.2.3](#032020--223)
-- [Blogs & Articles 📰 :](#blogs--articles--)
+      - [06/2021 : 2.3](#062021--23)
+      - [03/2020 : 2.2.3](#032020--223)
+      - [Youtube Video : Link](#youtube-video--link)
+- [Blogs \& Articles 📰 :](#blogs--articles--)
 - [Overview 📙 :](#overview--)
 - [Features 📙 :](#features--)
   - [Pentesting Tools Selection 📙 :](#pentesting-tools-selection--)
   - [Resources and cheatsheets 📙 :](#resources-and-cheatsheets--)
 - [Screenshots 💻 :](#screenshots--)
 - [Demos 💻 :](#demos--)
-- [Installation 🛠️ :](#installation-%EF%B8%8F-)
-- [Lockdoor Tools contents 🛠️ :](#lockdoor-tools-contents-%EF%B8%8F-)
-  - [**Information Gathering** :mag_right: :](#information-gathering-mag_right-)
+- [Installation 🛠️ :](#installation-️-)
+- [Lockdoor Tools contents 🛠️ :](#lockdoor-tools-contents-️-)
+  - [**Information Gathering** :mag\_right: :](#information-gathering-mag_right-)
   - [**Web Hacking** 🌐 :](#web-hacking--)
-  - [**Privilege Escalation** ⚠️ :](#privilege-escalation-%EF%B8%8F-)
+  - [**Privilege Escalation** ⚠️ :](#privilege-escalation-️-)
   - [**Reverse Engineering** ⚡:](#reverse-engineering-)
   - [**Exploitation** ❗:](#exploitation-)
   - [**Shells** 🐚:](#shells-)
-  - [**Password Attacks** ✳️:](#password-attacks-%EF%B8%8F)
-  - [**Encryption - Decryption** 🛡️:](#encryption---decryption-%EF%B8%8F)
+  - [**Password Attacks** ✳️:](#password-attacks-️)
+  - [**Encryption - Decryption** 🛡️:](#encryption---decryption-️)
   - [**Social Engineering** 🎭:](#social-engineering-)
 - [Lockdoor Resources contents 📚 :](#lockdoor-resources-contents--)
-  - [**Information Gathering** :mag_right: :](#information-gathering-mag_right-)
-  - [**Crypto** 🛡️:](#crypto-%EF%B8%8F)
-  - [**Exploitation** ❗:](#exploitation-)
+  - [**Information Gathering** :mag\_right: :](#information-gathering-mag_right--1)
+  - [**Crypto** 🛡️:](#crypto-️)
+  - [**Exploitation** ❗:](#exploitation--1)
   - [**Networking** 🖧 :](#networking--)
-  - [**Password Attacks** ✳️:](#password-attacks-%EF%B8%8F-1)
+  - [**Password Attacks** ✳️:](#password-attacks-️-1)
   - [**Post Exploitation** ❗❗:](#post-exploitation-)
-  - [**Privilege Escalation** ⚠️:](#privilege-escalation-%EF%B8%8F)
-  - [**Pentesting & Security Assessment Findings Report Templates** 📝 :](#pentesting--security-assessment-findings-report-templates--)
+  - [**Privilege Escalation** ⚠️:](#privilege-escalation-️)
+  - [**Pentesting \& Security Assessment Findings Report Templates** 📝 :](#pentesting--security-assessment-findings-report-templates--)
   - [**Reverse Engineering** ⚡ :](#reverse-engineering--)
-  - [**Social Engineering** 🎭:](#social-engineering-)
+  - [**Social Engineering** 🎭:](#social-engineering--1)
   - [**Walk Throughs** 🚶 :](#walk-throughs--)
-  - [**Web Hacking** 🌐 :](#web-hacking--)
+  - [**Web Hacking** 🌐 :](#web-hacking---1)
   - [**Other** 📚 :](#other--)
-- [**Contributing** :](#contributing-)
 
 
 # Changelog 📌  :
@@ -60,23 +57,6 @@
         - new docker iaage build
 
         - adding packages for each supported distros
-
-# Badges 📌 :
-![made-with-python]( http://ForTheBadge.com/images/badges/made-with-python.svg)
-![Twitter](https://badgen.net/twitter/follow/S0fianeHamlaoui)
-![GitHub](https://badgen.net/github/release/SofianeHamlaoui/Lockdoor-Framework)
-![License](https://badgen.net/pypi/license/lockdoor)
-![TestedON](https://img.shields.io/badge/Tested%20on%20%20-Linux%20%26%20Windows-blue)
-
-
-# Support me 💰 :
-
-   - On Paypal : https://www.paypal.me/SofianeHamlaoui
-   - BTC Addresse : 1NR2oqsuevvWJwzCyhBXmqEA5eYAaSoJFk
-
-# Contributors ⭐ :
-
-![commits](https://badges.pufler.dev/contributors/SofianeHamlaoui/Lockdoor-Framework)
 
 # Versions 
 
@@ -491,12 +471,3 @@ https://hub.docker.com/r/sofianehamlaoui/lockdoor. It is initially based on the 
 > -   [Images (I'll let you discover that)](ToolsResources/IMAGES/)
 > -   [Google Hacking DataBase](ToolsResources/GHDB.pdf)
 > -   [Google Fu](ToolsResources/GoogleFu.pdf)
-
-# **Contributing** :
-
-   0. Read [Contributing](https://github.com/SofianeHamlaoui/Lockdoor-Framework/blob/master/docs/CONTRIBUTING.md), [The Code of Conduct](https://github.com/SofianeHamlaoui/Lockdoor-Framework/blob/master/docs/CODE_OF_CONDUCT.md) and [The pull request template](https://github.com/SofianeHamlaoui/Lockdoor-Framework/blob/master/docs/pull_request_template.md)
-   1. Fork it (https://github.com/SofianeHamlaoui/Lockdoor-Framework/fork)
-   2. Create your feature branch
-   3. Commit your changes
-   4. Push to the branch
-   5. Create a new Pull Request
